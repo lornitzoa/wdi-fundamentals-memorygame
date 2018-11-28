@@ -85,6 +85,18 @@ img {
 	margin: 40px 8px;
 }
 
+label {
+	color: #00A6B3;
+	font-size: 14px;
+	font-family: Raleway;
+	font-weight: 400px;
+	margin: 10px;
+}
+
+button {
+	margin: 10px;
+}
+
 footer {
 	text-transform: uppercase;
 	padding: 0 20px;
